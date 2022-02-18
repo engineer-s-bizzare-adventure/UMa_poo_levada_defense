@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Level3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Level3\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=score1\ score2
+comment1.target=Level3(ScoreCounter,\ ScoreCounter)
+comment2.params=
+comment2.target=Level3()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ prepare()
+comment5.params=chance
+comment5.target=void\ addHealthRandom(int)
+numComments=6

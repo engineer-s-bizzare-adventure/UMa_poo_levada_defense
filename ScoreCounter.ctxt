@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ScoreCounter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScoreCounter\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ScoreCounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=points
+comment2.target=void\ addScore(int)
+comment3.params=
+comment3.target=void\ updateScore()
+comment4.params=newScore
+comment4.target=void\ setScore(int)
+numComments=5
